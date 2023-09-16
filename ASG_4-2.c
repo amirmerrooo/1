@@ -12,11 +12,11 @@ int main()
     {
         if (arr[i] ==4)
          {
-              printf(" the maximum number is %d in position %d \n",arr[4],arr[i]);
+              printf(" the max number is %d in position %d \n",arr[4],arr[i]);
          }
         else if(arr[i] <=0)
         {
-             printf(" the minumum number is %d in position %d \n",arr[0],arr[i]);
+             printf(" the min number is %d in position %d \n",arr[0],arr[i]);
         }
         else
         {
